@@ -1,0 +1,12 @@
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\config\DruidConfiguration.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\shiro\MyRealm.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\web\IndexController.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\config\WxMappingJackson2HttpMessageConverter.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\dto\WeiboUidDto.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\dto\WeiboUserDto.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\shiro\CustomCredentialsMatcher.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\shiro\OAuth2AuthenticationFilter.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\shiro\OAuth2Realm.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\shiro\OAuth2AuthenticationException.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\shiro\OAuth2Token.java
+C:\Users\pzy\git\openid\openid-web\src\main\java\seed\admin\SpringBootContext.java
